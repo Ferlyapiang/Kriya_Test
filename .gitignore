@@ -13,3 +13,4 @@ main
 *.out
 /.vscode
 /vendor
+/KriyaTest.git
